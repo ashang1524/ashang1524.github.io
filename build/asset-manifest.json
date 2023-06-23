@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/static/css/main.26fa0f94.css",
-    "main.js": "/static/js/main.d6364153.js",
-    "static/js/415.4d6acbeb.chunk.js": "/static/js/415.4d6acbeb.chunk.js",
-    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
-    "static/media/lauv.png": "/static/media/lauv.84b0ce85bee2295d955a.png",
-    "static/media/me.png": "/static/media/me.eac0a4e98ca69d75dff6.png",
-    "static/media/cnn.gif": "/static/media/cnn.587822242287c8d7f01d.gif",
-    "static/media/coderconnect.jpg": "/static/media/coderconnect.c58412a75aefb28e3e24.jpg",
-    "static/media/resume.pdf": "/static/media/resume.172d4886e3e16fe49da1.pdf",
-    "static/media/smallbites.jpg": "/static/media/smallbites.7112f861a026baf3f4e3.jpg",
-    "static/media/rizztech.jpg": "/static/media/rizztech.b4bf6b6dddbdeb4a7d32.jpg",
-    "static/media/home-bg.jpg": "/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
-    "static/media/logo.png": "/static/media/logo.addfa0599f9cd6eaf204.png",
-    "static/media/pre.svg": "/static/media/pre.d4812f51c8c80976eaab.svg",
-    "index.html": "/index.html",
-    "main.26fa0f94.css.map": "/static/css/main.26fa0f94.css.map",
-    "main.d6364153.js.map": "/static/js/main.d6364153.js.map",
-    "415.4d6acbeb.chunk.js.map": "/static/js/415.4d6acbeb.chunk.js.map",
-    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/ashang1524.github.io/static/css/main.c226dbaf.css",
+    "main.js": "/ashang1524.github.io/static/js/main.311c2278.js",
+    "static/js/415.4d6acbeb.chunk.js": "/ashang1524.github.io/static/js/415.4d6acbeb.chunk.js",
+    "static/js/787.1ed0c42c.chunk.js": "/ashang1524.github.io/static/js/787.1ed0c42c.chunk.js",
+    "static/media/lauv.png": "/ashang1524.github.io/static/media/lauv.84b0ce85bee2295d955a.png",
+    "static/media/me.png": "/ashang1524.github.io/static/media/me.eac0a4e98ca69d75dff6.png",
+    "static/media/cnn.gif": "/ashang1524.github.io/static/media/cnn.587822242287c8d7f01d.gif",
+    "static/media/coderconnect.jpg": "/ashang1524.github.io/static/media/coderconnect.c58412a75aefb28e3e24.jpg",
+    "static/media/resume.pdf": "/ashang1524.github.io/static/media/resume.172d4886e3e16fe49da1.pdf",
+    "static/media/smallbites.jpg": "/ashang1524.github.io/static/media/smallbites.7112f861a026baf3f4e3.jpg",
+    "static/media/rizztech.jpg": "/ashang1524.github.io/static/media/rizztech.b4bf6b6dddbdeb4a7d32.jpg",
+    "static/media/home-bg.jpg": "/ashang1524.github.io/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/logo.png": "/ashang1524.github.io/static/media/logo.addfa0599f9cd6eaf204.png",
+    "static/media/pre.svg": "/ashang1524.github.io/static/media/pre.d4812f51c8c80976eaab.svg",
+    "index.html": "/ashang1524.github.io/index.html",
+    "main.c226dbaf.css.map": "/ashang1524.github.io/static/css/main.c226dbaf.css.map",
+    "main.311c2278.js.map": "/ashang1524.github.io/static/js/main.311c2278.js.map",
+    "415.4d6acbeb.chunk.js.map": "/ashang1524.github.io/static/js/415.4d6acbeb.chunk.js.map",
+    "787.1ed0c42c.chunk.js.map": "/ashang1524.github.io/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.26fa0f94.css",
-    "static/js/main.d6364153.js"
+    "static/css/main.c226dbaf.css",
+    "static/js/main.311c2278.js"
   ]
 }
