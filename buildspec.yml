@@ -1,0 +1,15 @@
+version: 0.2
+
+phases:
+  pre_build: # install dependencies
+    commands:
+      - npm install
+  build: # build the app
+    commands:
+      - npm run build
+
+artifacts:
+  files:
+    - '**/*'
+  discard-paths: no
+  base-directory: build
